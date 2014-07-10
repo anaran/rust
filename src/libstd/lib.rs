@@ -167,7 +167,7 @@ pub use core::unit;
 pub use core::result;
 pub use core::option;
 
-pub use alloc::owned;
+pub use alloc::boxed;
 pub use alloc::rc;
 
 pub use core_collections::slice;
